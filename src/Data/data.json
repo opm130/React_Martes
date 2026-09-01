@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "Nombre":"Bart",
+        "Imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK14fWCPrCDN1FxVVqJtoR8HgtT7P-7sh-rIkkuaJPsw&s=10",
+        "Descripcion":"Bart Simpson es un personaje ficticio de la serie de televisión Los Simpson. Es el prototipo del niño de clase media estadounidense: travieso, desobediente, rebelde y gamberro. Es considerado uno de los personajes animados más populares alrededor del mundo. Ha tenido muchas apariciones en diferentes medios debido a ser un ícono de la cultura popular moderna, incluyendo series, cine y comerciales. Es el segundo personaje más popular de la serie de Los Simpson después de Homero (su padre). Nancy Cartwright ha sido siempre su voz oficial en la versión en inglés original.",
+        "Color":"#FF2400"
+    },
+    {
+        "id": 2,
+        "Nombre": "Homer Simpson",
+        "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4ttRDQCL1rbRiBL-IBAmqt0Kjt2IIdX_4PWPL1EHVA&s=10",
+        "Descripcion": "Homer es el padre de la familia, trabaja en la planta nuclear y le encantan las donas y la cerveza Duff.",
+        "Color": "#FED41D"
+    },
+    {
+        "id": 3,
+        "Nombre": "Marge Simpson",
+        "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdHdZujoH8XKFbxWqLOEjYMr4ZhXTl3IS_YoStHmgJNQ&s=10",
+        "Descripcion": "Marge es la madre de la familia, reconocida por su icónico peinado azul y su paciencia infinita.",
+        "Color": "#4AC5EB"
+
+    }
+]
